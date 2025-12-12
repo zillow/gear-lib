@@ -12,7 +12,7 @@
   },
   "dependencies": {
       "gear": ">= 0.7.x",
-      "jslint": "0.1.x",
+      "jslint": "0.12.1",
       "uglify-js": "1.2.x",
       "csslint": "0.9.x",
       "less": "1.2.x",
